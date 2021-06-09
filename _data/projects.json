@@ -3,14 +3,14 @@
 		"name": "GWNU(강릉) 오시는길",
 		"image": "GWNU1.png",
 		"url": "#",
-		"date": "Jan 2014",
+		"date": "June 2021",
 		"tags": ["Angular JS","API"]
 	},
 	{
-		"name": "Cool project 2",
+		"name": "GWNU(원주) 오시는길",
 		"image": "placeholder.jpg",
 		"url": "#",
-		"date": "May 2014",
+		"date": "June 2021",
 		"tags": ["Android","PHP"]
 	},
 ]
